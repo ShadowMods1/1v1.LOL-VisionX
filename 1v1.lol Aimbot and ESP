@@ -24,7 +24,7 @@ const settings = {
 	aimbotSpeed: 0.15, 
 	esp: true, 
 	wireframe: true, 
-	createdBy: 'Zertalious', 
+	createdBy: 'NexusFusion', 
 	showHelp() {
 
 		dialogEl.style.display = dialogEl.style.display === '' ? 'none' : '';
