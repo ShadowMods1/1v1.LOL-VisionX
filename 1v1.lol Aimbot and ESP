@@ -5,13 +5,10 @@
 // @description  Unleash VisionX in 1v1.LOL for tactical domination. Experience aimbot precision, ESP awareness, and wireframe mastery. Dominate the battlefield like never before. Press M, N, and T to toggle features.
 // @author       NexusFusion
 // @match        *://1v1.lol/*
-// @match        *://1v1.school/*
 // @icon         https://www.google.com/s2/favicons?domain=1v1.lol
 // @grant        none
 // @run-at       document-start
-// @require      https://cdn.jsdelivr.net/npm/lil-gui@0.19
-// @downloadURL https://update.greasyfork.org/scripts/440267/1v1LOL%20Aimbot%2C%20ESP%20%20Wireframe%20View.user.js
-// @updateURL https://update.greasyfork.org/scripts/440267/1v1LOL%20Aimbot%2C%20ESP%20%20Wireframe%20View.meta.js
+// @require      https://raw.githubusercontent.com/NexusFusion/HoaxWare/main/Requirement
 // ==/UserScript==
 
 const isSchoolLink = window.location.hostname.indexOf( '1v1.school' ) > - 1;
