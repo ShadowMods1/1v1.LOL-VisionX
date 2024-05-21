@@ -20,7 +20,7 @@ const searchSize = 300;
 const threshold = 4.5;
 
 const settings = {
-	aimbot: false, 
+	aimbot: true, 
 	aimbotSpeed: 0.15, 
 	esp: true, 
 	wireframe: true, 
